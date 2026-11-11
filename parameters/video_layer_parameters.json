@@ -1,0 +1,10 @@
+{
+ "w": 640,
+ "h": 360,
+ "fps": 10,
+ "motion_px_per_unit": 0.25,
+ "cut_hold_s": 0.2,
+ "face": "square area = face_frac * W * H, centre (W/2, 0.40 H)",
+ "band": "thickness = edge * H/3, bottom edge at 0.94 H",
+ "sound": "each video carries the sound layer of the same stage"
+}

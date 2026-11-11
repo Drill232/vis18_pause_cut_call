@@ -1,0 +1,22 @@
+{
+ "common_tilt_db_per_khz": -6.23,
+ "sr": 22050,
+ "hop_s": 0.064,
+ "materials": {
+  "luce_B0539": {
+   "duration_s": 419.28,
+   "speech_frac": 0.4232,
+   "crowd_frac": 0.178
+  },
+  "mattarella_2022": {
+   "duration_s": 1002.56,
+   "speech_frac": 0.8137,
+   "crowd_frac": 0.0383
+  },
+  "meloni_20230129": {
+   "duration_s": 1004.52,
+   "speech_frac": 0.8975,
+   "crowd_frac": 0.0187
+  }
+ }
+}
