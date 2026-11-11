@@ -1,0 +1,29 @@
+{
+ "source": "Opera Omnia di Benito Mussolini, Discorso di Bari, 6 settembre 1934 (online transcription), 658 tokens, bracketed notes and acclamations excluded",
+ "n_tokens": 658,
+ "events_idx": "0y 14y 16y 28i 32y 36i 39i 46i 67y 69i 73i 118w 152i 182w 227i 252y 259i 268w 277t 280t 296w 299w 304w 310i 321w 380w 382w 391w 421w 422w 465w 468y 560y 579w 582y 596w 605w 606i 609y 610i 615y 619w 637y 645w 646w 652w 656y",
+ "anchors": [
+  [
+   0,
+   58.82
+  ],
+  [
+   602,
+   355.27
+  ],
+  [
+   614,
+   370.21
+  ],
+  [
+   620,
+   379.77
+  ],
+  [
+   626,
+   385.62
+  ]
+ ],
+ "anchor_note": "only word times of the YouTube automatic subtitles (misrecognised as Spanish) that clearly correspond to the speech text are used: start of the speech, 1926, obbiettivo, marcia, realizzazione",
+ "events_idx_legend": "token index followed by category: w we, y you, t they, i I"
+}
